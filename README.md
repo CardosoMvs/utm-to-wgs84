@@ -1,4 +1,4 @@
-# 🌍 Coordinate Converter and Harmonization Tool  
+# 🌍 Coordinate Converter
 
 **A simple R tool for converting and validating geographic coordinates between UTM and WGS84 systems**   
 
@@ -7,7 +7,7 @@ This R script provides a straightforward workflow to:
 - Import coordinate data from CSV files  
 - Clean and validate coordinate values  
 - Convert between SIRGAS 2000 UTM 22S (EPSG:31982) and WGS84 (EPSG:4326) systems  
-- Export harmonized data to Excel format  
+- Export data to Excel format  
 
 Perfect for researchers and professionals needing quick coordinate transformations with data validation.  
 
